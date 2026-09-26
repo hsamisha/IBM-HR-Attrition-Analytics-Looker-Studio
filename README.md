@@ -1,5 +1,9 @@
 # IBM HR Attrition Analytics Dashboard
 
+ ## Dashboard Preview
+[![IBM HR Attrition Dashboard](IBM_HR_Attrition_Dashboard.png)](https://datastudio.google.com/reporting/56c2b4df-1d34-4e6d-9557-ecd0ff136056)
+
+
 ##  Project Overview
 
 The **IBM HR Attrition Analytics Dashboard** is an interactive HR analytics project developed using **Looker Studio** and **Excel**.
@@ -72,9 +76,7 @@ Provides a summarized view of the major HR analysis and dashboard insights.
 - Average Age
 - Average Monthly Income
 
-##  Dashboard Preview
 
-[![IBM HR Attrition Dashboard](IBM_HR_Attrition_Dashboard.png)](https://datastudio.google.com/reporting/56c2b4df-1d34-4e6d-9557-ecd0ff136056)
 
 ##  Interactive Dashboard
 

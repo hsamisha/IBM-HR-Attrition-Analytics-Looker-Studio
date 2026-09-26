@@ -74,7 +74,7 @@ Provides a summarized view of the major HR analysis and dashboard insights.
 
 ##  Dashboard Preview
 
-![IBM HR Attrition Dashboard](IBM_HR_Attrition_Dashboard.png)
+[![IBM HR Attrition Dashboard](IBM_HR_Attrition_Dashboard.png)](https://datastudio.google.com/reporting/56c2b4df-1d34-4e6d-9557-ecd0ff136056)
 
 ##  Interactive Dashboard
 
@@ -85,11 +85,3 @@ Provides a summarized view of the major HR analysis and dashboard insights.
 
 
 
-## 📂 Project Files
-
-```text
-IBM-HR-Attrition-Analytics-Looker-Studio/
-│
-├── README.md
-├── IBM_HR_Attrition_Dashboard.png
-└── HR_Analytics_Final_Dataset.xlsx

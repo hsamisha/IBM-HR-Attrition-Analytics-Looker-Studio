@@ -1,5 +1,8 @@
 # IBM HR Attrition Analytics Dashboard Looker Studio
 
+#Dashboard view-
+[View Interactive Looker Studio Dashboard](https://datastudio.google.com/reporting/56c2b4df-1d34-4e6d-9557-ecd0ff136056)
+
 ## Project Overview
 
 The **IBM HR Attrition Analytics Dashboard** is an interactive HR analytics project developed using **Looker Studio** and **Microsoft Excel**.
@@ -243,13 +246,6 @@ Based on the areas analyzed in the dashboard, HR teams can consider:
 - Monitoring employees with shorter tenure for potential retention concerns.
 - Using workforce analytics to support data-driven HR planning.
 
----
-
-## Dashboard Preview
-
-![IBM HR Attrition Dashboard](https://github.com/hsamisha/IBM-HR-Attrition-Analytics-Looker-Studio/raw/main/IBM_HR_Attrition_Dashboard.png)
-
----
 
 ## Interactive Dashboard
 
